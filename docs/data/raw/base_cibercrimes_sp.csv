@@ -1,0 +1,8 @@
+﻿id_ocorrencia,regiao,cidade_bairro,lat,lon,tipo_crime,total_ocorrencias,nivel_risco
+1,Centro,São Paulo - Centro,-23.5505,-46.6333,Roubo de Aparelho / Apps,1200,Alto
+2,ABC Paulista,São Bernardo do Campo,-23.6939,-46.565,Engenharia Social / Falso Parente,850,Alto
+3,ABC Paulista,Santo André,-23.6639,-46.5383,Clonagem de WhatsApp / Pix,600,Médio-Alto
+4,Zona Oeste,Osasco,-23.5325,-46.7917,Fraude de E-commerce,450,Médio
+5,Zona Norte,Guarulhos,-23.4628,-46.5333,Phishing / Sites Clonados,500,Médio
+6,Zona Leste,São Paulo - Tatuapé,-23.5405,-46.5758,Golpe do Boleto Falso,720,Médio-Alto
+7,Zona Sul,São Paulo - Santo Amaro,-23.6528,-46.7081,Engenharia Social / Idosos,680,Médio-Alto
